@@ -1,14 +1,3 @@
-Here’s a **clean, polished, professional-level README.md** for your **Cyber Chess App** (Vite + React).
-You can copy–paste directly into a new file named:
-
-```
-README.md
-```
-
-Let me know if you want badges, screenshots, GIF animations, or Netlify/Vercel deploy buttons.
-
----
-
 # 🛡️ Cyber Chess – Learn Cybersecurity Through Chess
 
 A gamified learning experience where **each chess piece represents a real cybersecurity vulnerability**, and capturing pieces teaches you about attacks like SQL Injection, Zero-Day Exploits, MITM, DDoS, Phishing, and more.
@@ -207,6 +196,7 @@ If you'd like advanced features such as:
 Just open an issue or request a feature.
 
 ---
+
 
 
 
