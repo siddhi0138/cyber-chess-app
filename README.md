@@ -176,11 +176,6 @@ The attacker (Black) uses:
 
 ---
 
-## 📜 License
-
-This project is open-source under the **MIT License**.
-
----
 
 ## 🤝 Contributing
 
@@ -196,6 +191,7 @@ If you'd like advanced features such as:
 Just open an issue or request a feature.
 
 ---
+
 
 
 
