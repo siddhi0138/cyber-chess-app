@@ -148,21 +148,35 @@ Drop the `/dist` folder onto:
 
 ---
 
-## 🖼️ Screenshots (optional section — I can generate placeholders)
+## 🖼️ Screenshots 
 
 🏁 Start Screen – Rules & Mapping
+
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/3128bbf6-99d9-48c9-a7dc-2be0101e143b" />
+
+<img width="1895" height="438" alt="image" src="https://github.com/user-attachments/assets/1c936d57-a4e1-4dcc-8d07-72f611818890" />
 
 The introductory screen showing game title, how-to-play instructions, and vulnerability mapping for each piece.
 
 ♟️ Gameplay – Board & Turns
 
+<img width="1900" height="895" alt="image" src="https://github.com/user-attachments/assets/3ccadd57-02fe-4737-a787-9e9ce6e6fa4b" />
+
+<img width="1891" height="903" alt="image" src="https://github.com/user-attachments/assets/0ae6011d-1c1e-4100-817c-aab7ff196b41" />
+
 The main chessboard view with the defender (white) vs attacker (black), showing current turn and active selection.
 
 🧩 Vulnerability Popup
 
+<img width="1878" height="897" alt="image" src="https://github.com/user-attachments/assets/a4b34d53-f4ff-4eda-81e6-a2808e82fd3a" />
+
+<img width="1885" height="621" alt="image" src="https://github.com/user-attachments/assets/168ccdfe-6a67-437d-94f6-211aa2a917d3" />
+
 The vulnerability detail section that appears after a capture, explaining what that attack means in real life.
 
 📊 Sidebar – Defenses vs Exploits
+
+<img width="1888" height="809" alt="image" src="https://github.com/user-attachments/assets/b45f9fbe-4daf-4e93-a49d-13ca6531338e" />
 
 Side panels tracking your patched vulnerabilities (white captures) and the attacker’s successful exploits (black captures).
 
@@ -205,6 +219,7 @@ If you'd like advanced features such as:
 Just open an issue or request a feature.
 
 ---
+
 
 
 
