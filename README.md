@@ -150,7 +150,21 @@ Drop the `/dist` folder onto:
 
 ## 🖼️ Screenshots (optional section — I can generate placeholders)
 
-*Add a board screenshot, vulnerability popup screenshot, or gameplay GIF here.*
+🏁 Start Screen – Rules & Mapping
+
+The introductory screen showing game title, how-to-play instructions, and vulnerability mapping for each piece.
+
+♟️ Gameplay – Board & Turns
+
+The main chessboard view with the defender (white) vs attacker (black), showing current turn and active selection.
+
+🧩 Vulnerability Popup
+
+The vulnerability detail section that appears after a capture, explaining what that attack means in real life.
+
+📊 Sidebar – Defenses vs Exploits
+
+Side panels tracking your patched vulnerabilities (white captures) and the attacker’s successful exploits (black captures).
 
 ---
 
@@ -191,6 +205,7 @@ If you'd like advanced features such as:
 Just open an issue or request a feature.
 
 ---
+
 
 
 
